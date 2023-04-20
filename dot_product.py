@@ -26,4 +26,4 @@ def dot_product():
   print(); print(np.dot(vectorAbar, vectorBbar))
 
 
-dot_product
+dot_product()
