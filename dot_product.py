@@ -12,7 +12,7 @@ def dot_product():
   print(s_product_1)
 
   s_product_2=[]
-  for i in range(0,3)
+  for i in range(0,3):
      k=int(input("List out the coordinates of the second vector:"))
      s_product_2.append(k)
   print("Vector B's components are:")
