@@ -6,14 +6,14 @@ def cross_product():
 
   c_product_1=[]
   for i in range(0,3):
-     l=int(input("List out the coordinates of the first vector:"))
+     l=int(input("List out the coordinates of the first vector one at a time (this will repeat thrice):"))
      c_product_1.append(l)
   print("Vector A's Components are:")
   print(c_product_1)
 
   c_product_2=[]
-  for i in range(0,3)
-     k=int(input("List out the coordinates of the second vector:"))
+  for i in range(0,3):
+     k=int(input("List out the coordinates of the second vector one at a time (this will repeat thrice):"))
      s_product_2.append(k)
   print("Vector B's components are:")
   print(c_product_2)
